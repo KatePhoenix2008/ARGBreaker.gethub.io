@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ARGbreaker.com</title>
+	<style>
+		body {
+			background-color:Black;
+			font-family: 'Courier New', monospace;
+			color:White;
+		}
+
+		div {
+  			display: flex;
+ 			justify-content: center;
+		}
+
+	</style>
+</head>
+<body>
+	<h1 style="background-color:blue;">ARGbreaker.com</h1>
+
+	<h2 style="text-align:center;">What is an ARG</h2>
+		<p style="text-align:center;">To put it simple, an ARG is a type of storytelling that requieres propel in the real world to solve puzzels and compleat tasks to progress the story in the game, video series, website or even location. It is requiered that as you interact with an ARG you are respectful to others who are playing through the same ARG as you. Many of these stories need a colective and safe fanbace to grow an dcomplet their stories.</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Caesar_cipher_left_shift_of_3.svg/1200px-Caesar_cipher_left_shift_of_3.svg.png" alt="Trulli" width="1200" height="506">
+
+	<h2 style="text-align:center;">Unspoken Rules</h2>
+
+		<p style="text-align:center;">There are several unspoken rules when interacting with an ARG that you must respect befor even thinking of joining an ARG.</p>
+
+<p> - Do not force the creator to update quickly or when the time is not right</p>
+<p> - Do not turn the ARG into an unsaafe space for users in any way</p>
+<p> - Do not ruin the fun for others by spoiling things without disclosing first</p>
+<p> - Do not attempt to change the ARG with false news or material</p>
+<p> - Do not hate the work creators suply</p>
+
+	<h2 style="text-align:center;">How to Solve an ARG</h2>
+
+		<p style="text-align:center;"> as stated befor an ARG is a multi person effort to continue the story of a world that isnit our own. Don't think you can or need to do it alone. Find the comunity who works on the ARG first. its best to introduce yourself when you do this. Next, listen. Many groups will tell you how the ARG works and what you can do to help. Of corse, there are times where your the first to find the ARG, where you are forced to do it yourself. In this case, you need to bring awareness to it.</p>
+
+	<h2 style="text-align:center;">Importent Tools</h2>
+
+		<p style="text-align:center;">Many ARGs will requiere you to know codes or cypers. Cypers are a special way of writing code and hiding importent information in an ARG. its one of, if not the most importent skills to have when taking part in an ARG. Popular cyperes include Ceser Cypers, Bianary, Base 64, and even morese code.</p>
+
+<img src="https://www.giftofcuriosity.com/wp-content/uploads/2019/08/Fun-with-Pigpen-Cipher_Page_4.png" alt="Trulli" width="1200" height="506">
+<img src="https://www.wikihow.com/images/thumb/b/b8/Create-Substitution-Ciphers-Step-6.jpg/v4-460px-Create-Substitution-Ciphers-Step-6.jpg" alt="Trulli" width="1200" height="506">
+<img src="" alt="Trulli" width="1200" height="506">
+
+	<h2 style="text-align:center;">Helpful Materials</h2>
+
+		<p style="text-align:center;">To end off, its importent to give you all some special help in solving an ARG</p>
+
+			<p style="text-align:center;"><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=video&cd=&cad=rja&uact=8&ved=2ahUKEwjPgubXnrOQAxXPvokEHQeOBeIQtwJ6BAgMEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtiU4AYPdIOw&usg=AOvVaw2BpsDMVmrhiK4B-6DCDNN4&opi=89978449">Extra Credits</a> for more information on ARGs</p>
+			<p style="text-align:center;"><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiPxMvDn7OQAxWzlokEHXjVO4cQFnoECBsQAQ&url=https%3A%2F%2Fwww.geektravelguide.net%2Fthe-best-args-if-youre-new-to-alternate-reality-games%2F&usg=AOvVaw1Dm9puBt2SjqehCgLRkh3e&opi=89978449">Best ARGs</a> for those geting into it</p>
+			<p style="text-align:center;"><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiQ8KmCoLOQAxUprYkEHZfuDqwQFnoECCQQAQ&url=https%3A%2F%2Fcryptii.com%2Fpipes%2Fcaesar-cipher&usg=AOvVaw2pFngF4nsNCDas4FVOlxNU&opi=89978449">Decoder and Cipher maker</a> for assistance</p>
+
+	<h1 style="background-color:blue;">ARGbreaker.com</h1>
+
+</body>
+</head>
